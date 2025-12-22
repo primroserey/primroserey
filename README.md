@@ -1,5 +1,6 @@
 # Primroserey✮
-> I'm a beginner
+> I'm a Machine Learning and AI Training Developer
+> My skils: Java, Py, Docker, Lua, Js, HTML, Css, C, C++, and Golang
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=primroserey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
