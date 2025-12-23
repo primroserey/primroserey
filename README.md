@@ -1,4 +1,4 @@
-# Primroserey✮
+# Primrosereyy✮
 > I'm a Machine Learning and AI Training Developer
 > My skils: Java, Py, Docker, PHP, Lua, Js, HTML, Css, C, C++, and Golang
 
